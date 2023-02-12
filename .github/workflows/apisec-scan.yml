@@ -33,8 +33,6 @@ on:
   # Customize trigger events based on your DevSecOps processes.
   push:
     branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
   schedule:
     - cron: '19 13 * * 6'
 
