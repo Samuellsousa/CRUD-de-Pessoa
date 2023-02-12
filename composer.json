@@ -2,7 +2,8 @@
     "require": {
         "php": ">= 7.4",
         "google/cloud-functions-framework": "^1.1",
-        "guzzlehttp/guzzle": "7.4.5"
+        "guzzlehttp/guzzle": "7.4.5",
+        "league/flysystem": "1.1.4"
     },
     "scripts": {
         "start": [
