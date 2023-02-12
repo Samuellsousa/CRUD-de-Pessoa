@@ -1,7 +1,8 @@
 {
     "require": {
         "php": ">= 7.4",
-        "google/cloud-functions-framework": "^1.1"
+        "google/cloud-functions-framework": "^1.1",
+        "guzzlehttp/guzzle": "7.4.5"
     },
     "scripts": {
         "start": [
